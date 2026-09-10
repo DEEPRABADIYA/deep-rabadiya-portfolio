@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><radialGradient id="r"><stop stop-color="#7cffc2" stop-opacity=".72"/><stop offset=".45" stop-color="#237b58" stop-opacity=".5"/><stop offset="1" stop-color="#07100d"/></radialGradient><pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#66ffb5" stroke-opacity=".13"/></pattern></defs>
+<rect width="1200" height="700" fill="#08140f"/><rect width="1200" height="700" fill="url(#grid)"/><ellipse cx="590" cy="370" rx="500" ry="270" fill="url(#r)"/>
+<path d="M100 510L1080 160M70 350L1130 470M310 80L860 630" stroke="#66ffb5" stroke-opacity=".2"/>
+<rect x="90" y="80" width="260" height="58" fill="#07100d" stroke="#2b5b48"/><text x="112" y="117" fill="#c9ddd5" font-family="monospace" font-size="22">SENTINEL-2 / NDVI</text>
+<g fill="#66ffb5" font-family="monospace" font-size="18"><text x="90" y="620">VEGETATION INDEX</text><text x="90" y="648">SPATIAL RESOLUTION · 10 m</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#08130f"/><g stroke="#17392d" stroke-width="2"><path d="M0 120H1200M0 250H1200M0 380H1200M0 510H1200M140 0V700M320 0V700M500 0V700M680 0V700M860 0V700M1040 0V700"/></g>
+<path d="M70 540 C170 470 210 390 330 420 S500 570 610 450 S820 220 920 310 S1050 470 1140 370" fill="none" stroke="#376a57" stroke-width="9"/>
+<path d="M120 150L1030 590M190 620L1000 110" stroke="#2b5848" stroke-width="3"/>
+<g fill="#66ffb5"><circle cx="600" cy="380" r="13"/><circle cx="830" cy="280" r="7"/><circle cx="380" cy="470" r="7"/></g>
+<g font-family="monospace" fill="#d6e7df"><text x="70" y="72" font-size="26">LOCATION INTELLIGENCE</text><text x="70" y="103" font-size="18" fill="#7da193">AHMEDABAD · INDIA · 23.02° N · 72.57° E</text><text x="625" y="420" font-size="20">AHMEDABAD</text><text x="70" y="640" font-size="18" fill="#7da193">GIS · SPATIAL ANALYSIS · WEB GIS</text></g>
+</svg>
